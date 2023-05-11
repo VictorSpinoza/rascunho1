@@ -1,0 +1,49 @@
+.grama{
+    background-color: rgb(106, 214, 107);
+   color: rgba(212, 228, 223, 0.849);
+   width: 180px;
+   
+}
+.veneno{
+    color: black;
+}
+body{
+  background-color: rgb(244, 216, 232);
+}
+
+
+
+.lesminha{
+justify-content: center;
+   display: flex
+}
+
+.galinha{
+    justify-content: center;
+    display: flex;
+}
+
+.fogo{
+    background-color: chocolate;
+    width: 180px;
+}
+#lista{
+    justify-content: left;
+    display: flex;
+    margin-left: 18px;
+    flex-wrap: wrap;
+}
+#foguinho{
+    justify-content: left;
+    display: flex;
+    margin-left: 18px;
+
+
+}
+
+
+
+
+
+
+
